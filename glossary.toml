@@ -595,3 +595,13 @@ definition = "A set of neutral pronouns.\nExample usage: Ze loved roses, but hir
 word = "ze/zir/zirs"
 aliases = "ze/zirs/zir, zir/ze/zirs, zir/zirs/ze, zirs/ze/zir, zirs/zir/ze"
 definition = "A set of neutral pronouns.\nExample usage: Zir favorite thing to do was draw. Ze enjoyed the process, was proud of what ze made."
+
+[[definition]]
+word = "transmedicalist"
+alisases = "transmed, transmeds, transmedicalists, truscum"
+definition = "Someone who believes that dysphoria and medical transition is necessary in order to be considered transgender."
+
+[[definition]]
+word = "Trans Exclusionary Radical Feminist"
+aliases = "terf"
+definition = "Someone who holds certain feminist beliefs but excludes transgender women from their understanding of womanhood."
